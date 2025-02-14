@@ -24,6 +24,3 @@ git clone https://github.com/your-username/wanderlust-travel-hub.git
 cd wanderlust-travel-hub
 
 
-### **2. Install Dependecies**
-```bash
-npm install 
